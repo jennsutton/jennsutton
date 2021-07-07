@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jennsutton
 - 👀 I’m interested in Health Informatics and Quality Assurance Testing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python.  I would like to learn Javascript next.
 - 💞️ I’m currently not looking to collaborate.  I'm still a junior.
 - 📫 How to reach me-just DM.
 
